@@ -4,6 +4,8 @@ Supports:
 - Zooming with mouse wheel at mouse position
 - Panning with middle mouse button and mouse delta
 
+[Demo](demo.mp4)
+
 ## Building
 
 ```bash
